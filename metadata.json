@@ -1,0 +1,6 @@
+{
+  "name": "VoxelBox",
+  "description": "Базовая мобильная 3D-песочница в стиле Minecraft с сенсорным управлением и локальным сохранением миров.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
